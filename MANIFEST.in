@@ -1,0 +1,2 @@
+include elite_corn/*.pyi
+include elite_corn/py.typed

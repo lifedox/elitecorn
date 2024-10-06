@@ -1,0 +1,29 @@
+# Host files
+Makefile
+.git
+.gitignore
+.dockerignore
+main.py
+Pipfile.lock
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+.pytest_cache/
+.mypy_cache/
+.eggs/
+
+# Test reporting files
+.coverage
+
+# IDE files
+.idea
+*.sw[a-z]
+.vscode
+
+# Build artifacts
+build
+dist
+results
+elite_corn.egg-info
